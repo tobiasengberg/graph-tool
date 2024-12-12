@@ -1,0 +1,5 @@
+- Identify line added
+- Detect overlapping lines
+- Keep lines as data
+- Attach value to each line, example 1–10
+- Color lines based on value, example 1–10 => light yellow to dark blue
